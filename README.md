@@ -1,1 +1,1 @@
-# Fraud-detection
+# Fraud-detection system:Fraud detection in data analytics involves using statistical methods, machine learning, and pattern recognition to identify suspicious or fraudulent activities within large datasets. By analyzing transaction data, user behavior, and other relevant information, analytics models can detect anomalies or patterns that indicate potential fraud, helping organizations prevent financial loss and maintain security.
